@@ -5,7 +5,8 @@ Frontend / Mobile разработчик. Пишу на **React**, **React Nativ
 
 - **[Фото-Детокс](https://github.com/Nikolyovin/Photo-Detox)** — Приложение для Android (React Native + Expo), которое помогает быстро и безопасно очистить галерею от визуального мусора. Свайп-интерфейс, безопасная корзина и темная тема.
 - **[Стоп-Подписка](https://github.com/Nikolyovin/sub-stop)** — Трекер подписок для контроля регулярных платежей (в разработке).
-
+- **[My-cars](https://github.com/Nikolyovin/my-cars)** — Мобильное приложение для учёта обслуживания нескольких автомобилей. Данные хранятся в Excel-файле, который загружается прямо в приложении.
+- 
 ## 🛠 Мой стек
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
