@@ -1,14 +1,22 @@
-### Languages and Tools:
+# 👋 Привет, я Николай
 
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=097CDB)
-![mui](https://img.shields.io/badge/-mui-090909?style=for-the-badge&logo=mui&logoColor=)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=)
+Frontend / Mobile разработчик. Пишу на **React**, **React Native** и **Node.js**. Создаю проекты, которыми реально пользуются люди.
 
-![codewars](https://img.shields.io/badge/-codewars-090909?&logo=codewars&logoColor=red)
+## 🚀 Мои проекты
 
-### https://www.codewars.com/users/Nikclyovin
+- **[Фото-Детокс](https://github.com/Nikolyovin/Photo-Detox)** — Приложение для Android (React Native + Expo), которое помогает быстро и безопасно очистить галерею от визуального мусора. Свайп-интерфейс, безопасная корзина и темная тема. /*Доступно в RuStore.*/
+- **[Стоп-Подписка](https://github.com/Nikolyovin/sub-stop)** — Трекер подписок для контроля регулярных платежей (в разработке).
 
-<!-- ![html](https://img.shields.io/badge/--090909?style=for-the-badge&logo=.html&logoColor=E5D3FF)
-![css](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css&logoColor=6296CC) -->
+## 🛠 Мой стек
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+## 📫 Как со мной связаться
+
+- **Telegram:** [@твой_никнейм](https://t.me/твой_никнейм) *(не забудь поменять)*
+- **Email:** твой_email@mail.ru *(не забудь поменять)*
