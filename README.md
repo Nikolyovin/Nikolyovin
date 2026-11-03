@@ -1,7 +1,6 @@
 # 👋 Привет, я Николай
 
-Frontend / Mobile разработчик. Пишу на **React**, **React Native** и **Node.js**. Создаю проекты, которыми реально пользуются люди.
-
+Frontend / Mobile разработчик. Пишу на **React**, **React Native** и **Node.js**. 
 ## 🚀 Мои проекты
 
 - **[Фото-Детокс](https://github.com/Nikolyovin/Photo-Detox)** — Приложение для Android (React Native + Expo), которое помогает быстро и безопасно очистить галерею от визуального мусора. Свайп-интерфейс, безопасная корзина и темная тема.
@@ -18,5 +17,5 @@ Frontend / Mobile разработчик. Пишу на **React**, **React Nativ
 
 ## 📫 Как со мной связаться
 
-- **Telegram:** [@твой_никнейм](https://t.me/твой_никнейм) *(не забудь поменять)*
-- **Email:** твой_email@mail.ru *(не забудь поменять)*
+- **Telegram:** [@nikolyovin](https://t.me/nikolyovin) 
+- **Email:** nikolyovin@gmail.com
